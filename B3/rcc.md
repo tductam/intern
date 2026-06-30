@@ -56,11 +56,11 @@ Không giới hạn số lượng.
 
   \+ Mong muốn mở rộng gì trong tương lai:
 
-    Thêm các tính năng
-
-    Tăng quy mô người dùng
-
-    Thêm các chi nhánh
+      Thêm các tính năng
+  
+      Tăng quy mô người dùng
+  
+      Thêm các chi nhánh
 
 4\. Sắp xếp câu hỏi
 
